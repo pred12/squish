@@ -142,4 +142,4 @@ async def on_message(message):
     await client.(int(splitMessage[1])).kick(splitMessage[2])
 
 
-client.run("ODY0MzMwMTkwNTAyODg3NDY0.YOz4Nw.y7xfMQ-MHVADA7-FdJXZIjjZ8bI")
+client.run("")
